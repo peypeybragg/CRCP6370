@@ -1,0 +1,4 @@
+.env
+ella_conversations.txt
+__pycache__/
+*.pyc
